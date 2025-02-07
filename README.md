@@ -16,3 +16,10 @@ These are some stock diagrams I made in Figma. Check out the [figma source](http
 ![SCHD vs VYM Portfolio Composition](SCHD-vs-VYM-Portfolio-Composition.png)
 ### Dividend Distribution
 ![SCHD vs VYM Dividend Distributions](SCHD-vs-VYM-Dividend-Distributions.png)
+## VTV vs VUG
+### $1 visualized comparison
+![VTV vs VUG $1 visualized comparison](VTV-vs-VUG-Treemap.png)
+### $1 invested in VTV
+![$1 invested in VTV](VTV-Treemap.png)
+### $1 invested in VUG
+![$1 invested in VUG](VUG-Treemap.png)
