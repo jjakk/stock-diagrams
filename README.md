@@ -2,9 +2,9 @@
 These are some stock diagrams I made in Figma. Check out the [figma source](https://www.figma.com/design/mC7U7iYB4Lk4OJfeFtgdPl/Stock-Diagrams?node-id=0-1&t=axN3veDtOCo8Sp2a-1) if you wanna see how these were made
 # Diagrams
 ## SCHD
-### Bubble Map by Sector
+### Bubble Map by Sector (unknown source date)
 ![SCHD Bubble Map by Sector](SCHD-Bubble-Map-Sectors.png)
-### Dividend Distribution
+### Dividend Distribution (unknown source date)
 ![SCHD Dividend Distribution](SCHD-Dividend-Distribution.png)
 ## SPHD
 ### Portfolio Composition
